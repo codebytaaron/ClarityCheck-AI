@@ -1,27 +1,26 @@
 # ClarityCheck AI
 
-ClarityCheck AI checks how clear your writing is and tells you what can be improved.
+ClarityCheck AI is a web-based tool that evaluates the clarity of written text and provides feedback.
 
-![App Screenshot](https://your-image-link-here)
+## Overview
 
----
+The project analyzes text to assess readability and highlight areas that may be unclear, offering guidance without rewriting the original content.
 
-## What it does
+## Usage Notice
 
-Paste text and get:
-- A clarity score
-- Feedback on confusing sentences
-- Suggestions to improve readability
+This repository is public for visibility and reference only.
 
-It does not rewrite your text.
+Please **do not use, copy, modify, deploy, or redistribute this project without contacting me first**.
 
-![Analysis Example](https://your-image-link-here)
+If you are interested in using this project, extending it, or collaborating, reach out via the link in my bio so I can assist and approve proper usage.
 
----
+## Notes
 
-## Setup
+Implementation details and configuration are intentionally limited in this repository.
 
-```bash
-npm install
-cp .env.local.example .env.local
-npm run dev
+## Topics
+
+ai  
+writing  
+analysis  
+web  
